@@ -1,7 +1,10 @@
 # web_scrapper
-python script to scrap desired things from specific websites
+python script to scrap desired things from specific websites by passing url and keyword
 
-TECH STACK: Python (HTTPX, Scrapy, Selenium)
+TECH STACK: Python (requests, BeautifulSoup, Selenium)
+
+// TODO :  Use rotating User-Agents, rotating proxies (or a proxy API service), add delays between requests.
+
 
 <!-- 
 TECH STACK:
