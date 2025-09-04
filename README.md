@@ -1,2 +1,2 @@
 # web_scrapper
-python script to scrap desired things from specific websites
+Script to scrap desired things from specific websites and Store That info
